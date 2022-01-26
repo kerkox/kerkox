@@ -17,6 +17,10 @@ Me encanta la tecnología y el desarrollo de software, me gusta aportar el mayor
 
 - Net Core 
 - API'S
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=kerkox&show_icons=true&count_private=true" width="400" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerkox&layout=compact&show_icons=true/" width="auto" height="158"/>
 <!--
 Here are some ideas to get you started:
 -->

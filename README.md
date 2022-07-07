@@ -16,6 +16,7 @@ Me encanta la tecnología y el desarrollo de software, me gusta aportar el mayor
 - IONIC
 
 - Net Core 
+- C#
 - API'S
 
 <br>

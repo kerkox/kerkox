@@ -9,11 +9,17 @@ Desarrollador de software por pasión ❤
 Me encanta la tecnología y el desarrollo de software, me gusta aportar el mayor valor psosible y hacerle la vida más facil a las personas con mis habilidades para ayudarlos!!!
 
 🚀 Experiencia en: 
-- Javascript  
+- Javascript
+- Typescript
 - Nodejs  
 - React
 - Angular
 - IONIC
+- Python
+- Php
+- SQL
+- GO
+
 
 - Net Core 
 - C#

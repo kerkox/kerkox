@@ -1,30 +1,21 @@
-## Hola Bienvenido 👋
+## Hi Welcome 👋
 
 <!--
 **kerkox/kerkox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Paul Cortes -->
 
-Desarrollador de software por pasión ❤ 
+👨‍💻 Software Developer by Passion — Always Building, Always Learning ❤
 
-Me encanta la tecnología y el desarrollo de software, me gusta aportar el mayor valor psosible y hacerle la vida más facil a las personas con mis habilidades para ayudarlos!!!
+Hey! I’m a passionate software developer who loves creating tech that solves real problems and makes life easier for people. I enjoy working on projects that have impact, collaborating with awesome teams, and constantly pushing my skills to the next level.
 
-🚀 Experiencia en: 
-- Javascript
-- Typescript
-- Nodejs  
-- React
-- Angular
-- IONIC
-- Python
-- Php
-- SQL
-- GO
+🛠️ Tech I enjoy working with:
+	•	Frontend: React, Angular, IONIC, TypeScript, JavaScript
+	•	Backend: Node.js, .NET Core, Python, PHP, Go
+	•	Mobile & Hybrid Apps: IONIC — currently diving into React Native 🚀
+	•	APIs & Integrations: REST APIs, C#
+	•	Databases: MongoDB, SQL Server, MySQL, PostgreSQL, CosmosDB
 
-
-- Net Core 
-- C#
-- API'S
-
+I’m always excited about learning, building cool stuff, and contributing to great ideas. Let’s make things that matter! ✨
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kerkox&show_icons=true&count_private=true" width="400" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerkox&layout=compact&show_icons=true/" width="auto" height="158"/>
